@@ -86406,7 +86406,7 @@ A.nc.prototype={
 a6b(a){var s,r="application/json",q=A.w(t.N,t.z)
 q.n(0,"Content-Type",r)
 q.n(0,"Accept",r)
-q=A.aMZ("http://127.0.0.1:8000/api/",B.mq,q,B.mq,new A.a4X())
+q=A.aMZ("https://ejun.kro.kr/api/",B.mq,q,B.mq,new A.a4X())
 s=new A.a4Y($,new A.N6(A.a([B.Br],t.i6)),$,new A.a1K(A.aX7()),!1)
 s.V6$=q
 s.V7$=new A.a2B(A.aH(t.Gf))
@@ -87182,7 +87182,7 @@ G(a){var s,r,q,p=this,o=null,n=A.O(a),m=t.w,l=A.bn(a,o,m).w,k=A.mV(!0,o),j=A.bn(
 h=A.mV(!0,A.bN(h.gJz(h),o,o,o,o,o,o))
 s=p.a.d
 s=s.gef(s)
-s=A.MU(A.aDG("http://127.0.0.1:8000/api/"+p.a.d.gI8(),A.bn(a,o,m).w.a.b/3),o,o,o,s,!1)
+s=A.MU(A.aDG("https://ejun.kro.kr/api/"+p.a.d.gI8(),A.bn(a,o,m).w.a.b/3),o,o,o,s,!1)
 m=A.cL(o,20,o)
 r=p.a.d
 r=r.gUr(r)
@@ -87559,7 +87559,7 @@ m=o.ax
 n=p?new A.bw(m.CW,n):new A.bw(m.CW,n)
 r=A.tt(e,e,n,e,e,e,e,e,e,e,e,e,e,e,e,new A.bw(new A.cs(r,B.q),t.xx),e,e,e,e,e,e)
 n=s.gef(s)
-n=A.h8(A.MU(A.aDG("http://127.0.0.1:8000/api/"+s.gI8(),100),e,e,e,n,!1),e,e)
+n=A.h8(A.MU(A.aDG("https://ejun.kro.kr/api/"+s.gI8(),100),e,e,e,n,!1),e,e)
 o=o.p3
 l=A.bN(s.gJz(s),2,e,e,o.r,e,e)
 k=A.cL(e,4,e)
